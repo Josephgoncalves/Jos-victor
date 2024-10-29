@@ -28,4 +28,7 @@ a, .btn-link:hover {
 a:hover{
     color: var(--cor-destaque);
 }
-
+.container text-center {
+    width: 260px;
+    height:250px ;
+}
